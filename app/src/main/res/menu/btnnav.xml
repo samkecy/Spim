@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav-localStor"
+        android:icon="@drawable/ic_sd_storage_black_24dp"
+        android:title="Local Storage" />
+    <item
+        android:id="@+id/nav-cloudStor"
+        android:icon="@drawable/ic_cloud_download_black_24dp"
+        android:title="Cloud Storage" />
+    <item
+        android:id="@+id/nav_Profile"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Profile" />
+</menu>

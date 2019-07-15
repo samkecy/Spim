@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:paddingLeft="18dp"
+    android:layout_height="0dp"
+    android:layout_weight="2"
+    android:id="@+id/linerCont"
+    android:orientation="horizontal">
+
+    <TextView
+        android:layout_marginLeft="18dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/bckGround"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:text="A"/>
+
+
+
+    <ImageView
+        android:layout_marginLeft="28dp"
+        android:scaleType="fitCenter"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/fb"
+        android:id="@+id/contactImage"
+        />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="2"
+        android:layout_height="wrap_content"
+        android:id="@+id/contactName"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="18dp"
+        android:fontFamily="sans-serif"
+        android:textSize="16sp"
+        android:textColor="#000000"
+        />
+
+
+</LinearLayout>

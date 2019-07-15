@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Spim</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Samkecy Personal Information Manager</string>
+    <string name="nav_header_subtitle">samkecy1@gmail.com</string>
+    <string name="nav_header_desc">Samkecy Personal Information Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_item_list">Items</string>
+    <string name="signout">Sign Out</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="back"><![CDATA[ << Back ]]></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

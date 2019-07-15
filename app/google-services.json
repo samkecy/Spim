@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "887321597724",
+    "firebase_url": "https://spim-a02d3.firebaseio.com",
+    "project_id": "spim-a02d3",
+    "storage_bucket": "spim-a02d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887321597724:android:3f3199862b9283f2",
+        "android_client_info": {
+          "package_name": "com.samkecy.spim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887321597724-8on2bseb837e6po31lb4s8douilj1k3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samkecy.spim",
+            "certificate_hash": "80d11cf34cd7b158b53f40950c3aa63e60866bc9"
+          }
+        },
+        {
+          "client_id": "887321597724-l8tbct7orkucq5mv3nmjqp5oplvbraj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALs2FQwvui2KKxmCMGcefy_HrAVNJB7EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887321597724-l8tbct7orkucq5mv3nmjqp5oplvbraj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
